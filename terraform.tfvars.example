@@ -1,0 +1,13 @@
+aws_key_name = "hunghome"
+
+aws_access_key = ""
+
+aws_secret_key = ""
+
+availability_zone = "ap-southeast-1b"
+
+vpc_security_group_ids = "sg-a10847d8"
+
+subnet_id = "subnet-a9fea4ce"
+
+instance_type = "t2.micro"
